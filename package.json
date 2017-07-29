@@ -20,13 +20,10 @@
     "dist/preview release/babylon.js",
     "dist/preview release/babylon.max.js",
     "dist/preview release/babylon.worker.js",
-
     "dist/preview release/loaders/babylon.glTFFileLoader.min.js",
     "dist/preview release/loaders/babylon.objFileLoader.min.js",
     "dist/preview release/loaders/babylon.stlFileLoader.min.js",
-
     "dist/preview release/inspector/babylon.inspector.bundle.js",
-
     "dist/preview release/materialsLibrary/babylon.fireMaterial.min.js",
     "dist/preview release/materialsLibrary/babylon.waterMaterial.min.js",
     "dist/preview release/materialsLibrary/babylon.lavaMaterial.min.js",
@@ -40,7 +37,6 @@
     "dist/preview release/materialsLibrary/babylon.shadowOnlyMaterial.min.js",
     "dist/preview release/materialsLibrary/babylon.customMaterial.min.js",
     "dist/preview release/materialsLibrary/babylon.cellMaterial.min.js",
-
     "dist/preview release/proceduralTexturesLibrary/babylon.brickProceduralTexture.min.js",
     "dist/preview release/proceduralTexturesLibrary/babylon.cloudProceduralTexture.min.js",
     "dist/preview release/proceduralTexturesLibrary/babylon.fireProceduralTexture.min.js",
@@ -49,10 +45,8 @@
     "dist/preview release/proceduralTexturesLibrary/babylon.roadProceduralTexture.min.js",
     "dist/preview release/proceduralTexturesLibrary/babylon.starfieldProceduralTexture.min.js",
     "dist/preview release/proceduralTexturesLibrary/babylon.woodProceduralTexture.min.js",
-
     "dist/preview release/postProcessesLibrary/babylon.asciiArtPostProcess.min.js",
-    "dist/preview release/postProcessesLibrary/babylon.digitalRainPostProcess.min.js",    
-    
+    "dist/preview release/postProcessesLibrary/babylon.digitalRainPostProcess.min.js",
     "dist/preview release/Oimo.js",
     "package.json"
   ],
